@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\Mini_Elo\git\proj3-team1-summer12\Project 3\.metadata\.plugins\org.eclipse.jdt.core
